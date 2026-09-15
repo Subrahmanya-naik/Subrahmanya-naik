@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋 I'm Subrahmanya Naik
 
-<!--
-**Subrahmanya-naik/Subrahmanya-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Power BI Developer
+💡 Interested in Data Analytics, Business Intelligence & Microsoft Fabric
+🛠️ Skills: SQL | Power BI | DAX | Microsoft Fabric | Excel
+📚 Currently learning: Python | PySpark | Advanced Analytics
 
-Here are some ideas to get you started:
+### Featured Projects
+📊 Employee Workforce Analytics Dashboard
+📈 HR Working Preference Dashboard
+🗄️ SQL Data Analysis Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+🏅 Microsoft Certified: Fabric Analytics Engineer Associate
+🏅 Microsoft Certified: Power BI Data Analyst Associate
